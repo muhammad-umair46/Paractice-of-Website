@@ -1,0 +1,16 @@
+td{
+    border: 3px solid black;
+    background-color: rgb(140, 73, 247);
+    font-size: large;
+}
+th{
+    border: 3px solid black; 
+    background-color: aqua;
+}
+caption{
+    font-variant: small-caps;
+    background-color: rgb(218, 141, 25);
+    font:bold;
+    font-size: large;
+    font-weight: 500;
+}
