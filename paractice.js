@@ -1,3 +1,3 @@
-alert("Welcome")
+alert("Welcome of website")
 
   
